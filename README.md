@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning how to use Minecraft's redstone<br>🎯 Goals: surviving lectures<br>🎲 Fun fact: i like trees (real ones)</p>
+<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning how to use redstone in Minecraft<br>🎯 Goals: survive lectures<br>🎲 Fun fact: i like trees (real ones)</p>
 
 ###
 
-<h2 align="left">What i think i can code with:</h2>
+<h2 align="left">What i think i know how to use:</h2>
 
 ###
 
